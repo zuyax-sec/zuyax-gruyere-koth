@@ -1,7 +1,7 @@
 # ℤ𝕦𝕪𝕒𝕏 𝔾𝕣𝕦𝕪𝕖𝕣𝕖 ℂ𝕋𝔽
 
 > **Mode:** King of The Hill (KOTH)  
-> **Host:** [https://google-gruyere.appspot.com/XXXXXXXXXXXX/](https://google-gruyere.appspot.com/XXXXXXXXXXXX/) ← *gunakan satu link arena yang ditetapkan admin*  
+> **Host:** [klik di sini](https://google-gruyere.appspot.com/620319094879025962051556495512368977990/) ← *jika ada link baru akan di beritahu*  
 > **Style:** Exploit, Deface, Survive  
 
 ---
