@@ -1,4 +1,4 @@
-# ZuyaX Gruyere CTF
+# ℤ𝕦𝕪𝕒𝕏 𝔾𝕣𝕦𝕪𝕖𝕣𝕖 ℂ𝕋𝔽
 
 > **Mode:** King of The Hill (KOTH)  
 > **Host:** [https://google-gruyere.appspot.com/XXXXXXXXXXXX/](https://google-gruyere.appspot.com/XXXXXXXXXXXX/) ← *gunakan satu link arena yang ditetapkan admin*  
@@ -6,14 +6,14 @@
 
 ---
 
-## ⌖ Objective
+## 《⌖》 Objective
 
 Seluruh peserta bermain di **satu arena bersama** (satu instance Gruyere).  
 Tujuannya adalah menjadi **King**, yaitu pemain yang **berhasil menguasai arena** dengan cara mengeksploitasi celah web dan memodifikasi tampilan utama (deface) untuk menampilkan identitasnya.
 
 ---
 
-## ▶ Cara Main
+## 《모》 Cara Main
 
 1. Gunakan **satu link arena resmi** yang dibagikan oleh admin:
    Contoh : https://google-gruyere.appspot.com/XXXXXXXXXXXX/
@@ -32,7 +32,7 @@ Tujuannya adalah menjadi **King**, yaitu pemain yang **berhasil menguasai arena*
 
 ---
 
-## 👑 Aturan King of The Hill
+## 《🜲》 Aturan King of The Hill
 
 | Kondisi | Keterangan |
 |----------|------------|
@@ -44,7 +44,7 @@ Tujuannya adalah menjadi **King**, yaitu pemain yang **berhasil menguasai arena*
 
 ---
 
-## 🧩 Cara Klaim King
+## 《✔》 Cara Klaim King
 
 1. Ambil **screenshot bukti**:
 - Tampilkan halaman utama arena (dengan URL + identitas kamu sebagai King).  
@@ -58,7 +58,7 @@ Tujuannya adalah menjadi **King**, yaitu pemain yang **berhasil menguasai arena*
 
 ---
 
-## 🧱 Skor Manual (untuk admin)
+## 《🗐》 Skor Manual (untuk admin)
 
 | Jenis Kemenangan | Poin |
 |------------------|------|
@@ -69,7 +69,7 @@ Tujuannya adalah menjadi **King**, yaitu pemain yang **berhasil menguasai arena*
 
 ---
 
-## ⚙️ Tips Eksploitasi
+## 《⏣》 Tips Eksploitasi
 
 - Lihat kode sumber (`Source code` link di halaman utama Gruyere).  
 - Cari XSS, CSRF, upload vuln, atau manipulasi cookie.  
